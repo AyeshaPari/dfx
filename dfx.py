@@ -60,7 +60,7 @@ logo=("""\033[1;37m
  Facebook  : MR.DANI
  Tool Name : DANI
  Type type : PAID
- Version   : 1.9.8
+ Version   : 3.0
 ----------------------------------------------
  AKING Pro version 3.0
  Don't Forget ALLAH🥰
